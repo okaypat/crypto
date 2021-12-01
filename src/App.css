@@ -85,3 +85,7 @@ form {
   width: 180px;
   font-size: 16px;
 }
+
+.btn:hover {
+  background-color: gold;
+}
